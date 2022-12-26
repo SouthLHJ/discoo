@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/discoo/static/css/main.8f25488f.css",
-    "main.js": "/discoo/static/js/main.90b4acd4.js",
+    "main.js": "/discoo/static/js/main.c90468ae.js",
     "index.html": "/discoo/index.html",
     "main.8f25488f.css.map": "/discoo/static/css/main.8f25488f.css.map",
-    "main.90b4acd4.js.map": "/discoo/static/js/main.90b4acd4.js.map"
+    "main.c90468ae.js.map": "/discoo/static/js/main.c90468ae.js.map"
   },
   "entrypoints": [
     "static/css/main.8f25488f.css",
-    "static/js/main.90b4acd4.js"
+    "static/js/main.c90468ae.js"
   ]
 }
